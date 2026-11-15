@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Handheld Console & Discord Bot**
 
-- 🌱 I’m currently learning **Web Dev(Currently HTML) & Arduino**
+- 🌱 I’m currently learning **Javascript & Arduino**
 
-- 💬 Ask me about **Arduino, Electricity**
+- 💬 Ask me about **Electronics, consoles, games**
 
-- ⚡ Fun fact **I do too much**
+- ⚡ Fun fact **I like the idea of building my own handheld :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
